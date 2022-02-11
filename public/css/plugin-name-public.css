@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .video-container {
+    max-width: 1140px !important;
+    width: 100% !important;
+}
+
+.post-inner {
+    padding-top: 0 !important;
+ }
+
+.singular .entry-header {
+    padding: 3rem 0 !important;
+}
